@@ -1,9 +1,10 @@
 Created from template; will edit later
 - 👋 Hi, I’m @kavedweller
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in  
+    - Container orchestration with Kubernetis and
+    - DevOPs
+- 🌱 I’m currently learning ReactJS and Firebase
+- 📫 How to reach me: kbrc at outlook dot com 
 
 <!---
 kavedweller/kavedweller is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
