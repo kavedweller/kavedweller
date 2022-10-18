@@ -1,7 +1,7 @@
 Created from template; will edit later
 - 👋 Hi, I’m @kavedweller
 - 👀 I’m interested in  
-    - Container orchestration with Kubernetis and
+    - Container orchestration with Kubernetes and
     - DevOPs
 - 🌱 I’m currently learning ReactJS and Firebase
 - 📫 How to reach me: kbrc at outlook dot com 
