@@ -13,6 +13,7 @@ kavedweller/kavedweller is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 <!--START_SECTION:badges-->
+[![Introduction to Cybersecurity](https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](http://www.credly.com/badges/ceffc50b-41a6-4ea5-8928-3677d13423bd "Introduction to Cybersecurity")
 [![ISC2 Candidate](https://images.credly.com/size/110x110/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png)](http://www.credly.com/badges/3aa83746-517c-4068-93f5-f1cdc70c8218 "ISC2 Candidate")
 [![OPSWAT File Security Associate (OFSA)](https://images.credly.com/size/110x110/images/13a41f72-0d4b-4c88-b775-0badf995b59d/image.png)](http://www.credly.com/badges/df81302b-501a-4cf0-ba64-ed073b33ab14 "OPSWAT File Security Associate (OFSA)")
 [![Linux Unhatched](https://images.credly.com/size/110x110/images/f25ec9d4-c59d-49b9-944a-f160012e81cd/image.png)](http://www.credly.com/badges/66473cf0-2993-4b23-909f-f23024601be2 "Linux Unhatched")
