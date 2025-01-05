@@ -1,9 +1,25 @@
 name: Update badges
 
 on:
-  schedule:
+  workflow_dispatch:
+    inputs:
+      logLevel:
+        description: 'Log level'
+        required: true
+        default: 'information'
+        type: choice
+        options:
+          - information
+          - debug
+          - warning
+          - critical
+      tags:
+        description: 'Purpose of Run This Workflow?'
+        required: true
+        type: string
+  #schedule:
     # Runs at 12am UTC
-    - cron: "0 0 1,15 * *"
+   # - cron: "0 0 1,15 * *"
 jobs:
   update-readme:
     name: Update Readme with badges
