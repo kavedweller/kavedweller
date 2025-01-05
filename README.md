@@ -13,6 +13,8 @@ kavedweller/kavedweller is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 <!--START_SECTION:badges-->
+[![CCNA: Introduction to Networks](https://images.credly.com/size/110x110/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png)](http://www.credly.com/badges/efaef677-6828-4b5a-b68d-45cfabce1b0d "CCNA: Introduction to Networks")
+[![CyberOps Associate](https://images.credly.com/size/110x110/images/53f37f83-04a1-4935-9b1e-21a99cc6e1b2/CyberOpsAssoc.png)](http://www.credly.com/badges/248dd8a7-8b42-431e-934e-b3b8f1811d55 "CyberOps Associate")
 [![Google Cybersecurity Certificate](https://images.credly.com/size/110x110/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png)](http://www.credly.com/badges/0b7de012-b3e3-414e-af17-de071f8ffa7b "Google Cybersecurity Certificate")
 [![Introduction to Cybersecurity](https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](http://www.credly.com/badges/ceffc50b-41a6-4ea5-8928-3677d13423bd "Introduction to Cybersecurity")
 [![ISC2 Candidate](https://images.credly.com/size/110x110/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png)](http://www.credly.com/badges/3aa83746-517c-4068-93f5-f1cdc70c8218 "ISC2 Candidate")
