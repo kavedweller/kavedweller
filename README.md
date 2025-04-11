@@ -13,9 +13,12 @@ kavedweller/kavedweller is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 <!--START_SECTION:badges-->
+[![IBM Z Xplore - Concepts](https://images.credly.com/size/110x110/images/0f3e4162-ab6b-457c-8c0d-835a14680666/image.png)](http://www.credly.com/badges/788d49dd-aa86-4823-972b-485aa2f8d953 "IBM Z Xplore - Concepts")
+[![IBM Z Foundations - Level 1](https://images.credly.com/size/110x110/images/aea62b4f-cae7-4745-93a3-9cedf0aafaf8/IBM_20Z_20Foundations_20Level_201.png)](http://www.credly.com/badges/a2278356-7191-4938-b346-9adc2c034f6c "IBM Z Foundations - Level 1")
+[![CCNA: Switching, Routing, and Wireless Essentials](https://images.credly.com/size/110x110/images/f4ccdba9-dd65-4349-baad-8f05df116443/CCNASRWE__1_.png)](http://www.credly.com/badges/abf52db8-1975-4fca-9cb1-938d6bfeaaef "CCNA: Switching, Routing, and Wireless Essentials")
 [![CCNA: Introduction to Networks](https://images.credly.com/size/110x110/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png)](http://www.credly.com/badges/efaef677-6828-4b5a-b68d-45cfabce1b0d "CCNA: Introduction to Networks")
 [![CyberOps Associate](https://images.credly.com/size/110x110/images/53f37f83-04a1-4935-9b1e-21a99cc6e1b2/CyberOpsAssoc.png)](http://www.credly.com/badges/248dd8a7-8b42-431e-934e-b3b8f1811d55 "CyberOps Associate")
-[![Google Cybersecurity Certificate](https://images.credly.com/size/110x110/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png)](http://www.credly.com/badges/0b7de012-b3e3-414e-af17-de071f8ffa7b "Google Cybersecurity Certificate")
+[![Google Cybersecurity Professional Certificate V2](https://images.credly.com/size/110x110/images/0bf0f2da-a699-4c82-82e2-56dcf1f2e1c7/image.png)](http://www.credly.com/badges/0b7de012-b3e3-414e-af17-de071f8ffa7b "Google Cybersecurity Professional Certificate V2")
 [![Introduction to Cybersecurity](https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](http://www.credly.com/badges/ceffc50b-41a6-4ea5-8928-3677d13423bd "Introduction to Cybersecurity")
 [![ISC2 Candidate](https://images.credly.com/size/110x110/images/9180921d-4a13-429e-9357-6f9706a554f0/image.png)](http://www.credly.com/badges/3aa83746-517c-4068-93f5-f1cdc70c8218 "ISC2 Candidate")
 [![OPSWAT File Security Associate (OFSA)](https://images.credly.com/size/110x110/images/13a41f72-0d4b-4c88-b775-0badf995b59d/image.png)](http://www.credly.com/badges/df81302b-501a-4cf0-ba64-ed073b33ab14 "OPSWAT File Security Associate (OFSA)")
